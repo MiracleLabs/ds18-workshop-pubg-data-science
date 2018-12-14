@@ -24,12 +24,12 @@ The repository contains detailed documentation and steps for understanding and c
 
 • Train and Test Datasets
 
-• Final Application to download and test
+• Final Stream file
 
 ## Lab Contributors
 
 The following people have contributed to the development and delivery of this lab. This Lab is created and owned by the Miracle Innovation Labs Team.
 
-• Pusha Pasam - Machine Learning Research Associate
+• Pushpa Pasam - Machine Learning Research Associate
 
 • Divya Mutta - Machine Learning Research Associate
