@@ -30,8 +30,6 @@ The repository contains detailed documentation and steps for understanding and c
 
 The following people have contributed to the development and delivery of this lab. This Lab is created and owned by the Miracle Innovation Labs Team.
 
-• Pushpa Pasam - Machine Learning Research Associate
-
 • Divya Mutta - Machine Learning Research Associate
 
 • Samanvitha Burle - Machine Learning Research Associate
