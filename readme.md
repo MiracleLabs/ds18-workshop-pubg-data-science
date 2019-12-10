@@ -1,4 +1,4 @@
-# DS18 Workshop | Predicting Win Scenarios in PUBG with IBM Watson Studio
+# DS19 Open Lab | Predicting Win Scenarios in PUBG with IBM Watson Studio
 
 This repository contains the lab for demonstrating Win percentage prediction of PUBG users using IBM Watson Studio. It is one of the labs brought to you by Miracle's Innovation Labs.
 
@@ -33,3 +33,5 @@ The following people have contributed to the development and delivery of this la
 • Pushpa Pasam - Machine Learning Research Associate
 
 • Divya Mutta - Machine Learning Research Associate
+
+• Samanvitha Burle - Machine Learning Research Associate
